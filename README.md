@@ -1,27 +1,30 @@
-Synopsis -
 
-This project is an interactive story book for children
+#Flickr Gallery
 
-Motivation -
+This a mobile story book that I created whilst trying to learn Android on Tree house learning
 
-Trying to learn native Android
-
-API Reference -
-
-N/A
-
-Languages - 
-
-Android
-
-Contributors -
+#Contributors
 
 Sean Milburn
 
-Browser compatibility -
+#Requirements
 
-Edge, Firefox, Chrome
+Android Studio
 
-License -
+#Instructions
 
-N/A
+-download project files into Android studio<br>
+-run locally
+
+#Libraries 
+
+Android
+
+#External resources
+
+https://teamtreehouse.com/
+
+#Browser compatibility
+
+Edge, Firefox, Chrome, Android
+
