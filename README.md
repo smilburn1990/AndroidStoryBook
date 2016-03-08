@@ -1,6 +1,5 @@
 
-#Flickr Gallery
-
+#Android Story Book
 This a mobile story book that I created whilst trying to learn Android on Tree house learning
 
 #Contributors
